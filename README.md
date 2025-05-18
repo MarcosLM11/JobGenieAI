@@ -77,6 +77,11 @@ Built with Spring Boot (backend), Angular (frontend), and Hugging Face models fo
 
 ---
 
+## 🧩 Architecture Diagram
+
+![img.png](img.png)
+
+
 ## 📸 Screenshots
 
 (TODO: Add screenshots showing resume matching, cover letter generation, etc.)
